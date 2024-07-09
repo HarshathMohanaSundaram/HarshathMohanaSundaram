@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Full stack web and mobile app development.
+- 🌱  I’m currently learning web development.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: harshathsundaram@gmail.com
 

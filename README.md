@@ -58,4 +58,4 @@ A **multi-tenant billing platform**, built for correctness first.
 
 ---
 
-<p align="center">📫 Always happy to talk backend, databases or billing systems — <a href="mailto:harshathsundaram@gmail.com">drop me a line</a>!</p>
+<p align="center">📫 Always happy to talk about backend and database systems — <a href="mailto:harshathsundaram@gmail.com">drop me a line</a>!</p>
